@@ -42,11 +42,11 @@ function getDataById(id) {
 		document.getElementById("id").value = data._id;
 		document.getElementById("name").value = data.name;
 		document.getElementById("age").value = data.age;
-		document.getElementById("fathername").value = data.job;
-		document.getElementById("dob").value = data.email;
-		document.getElementById("email").value = data.mobileno;
-		document.getElementById("voteridno").value = data.education;
-		document.getElementById("address").value = data.skills;
+		document.getElementById("fathername").value = data.fathername;
+		document.getElementById("dob").value = data.dob;
+		document.getElementById("email").value = data.email;
+		document.getElementById("voteridno").value = data.voteridno;
+		document.getElementById("address").value = data.address;
 	})
 }
 
