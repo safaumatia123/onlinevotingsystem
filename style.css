@@ -65,6 +65,15 @@ h2 {
   color: white;
 }
 
+h3 {
+  text-align: center;
+  color: white;
+}
+
+#form{
+  color: white;
+}
+
 #demo {
 background: #CEC9B1;
 background: -moz-linear-gradient(left, #CEC9B1 0%, #A2A49A 44%, #98C5C5 100%);
